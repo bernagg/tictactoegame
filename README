@@ -2,8 +2,8 @@ tictactoe - bazinga team
 
 Tictactoe game with TUI and Java Swing GUI.
 
-For play it, just put this on your terminal: 
-java -jar tictactoe.jar
+For play it, just put this on your terminal (Linux): 
+java -jar tictactoe-bazinga.jar
 
 Verify that you are on the correct folder before execute, and check out permissions.
  
